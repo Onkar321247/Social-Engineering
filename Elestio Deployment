@@ -1,0 +1,10 @@
+What is Elestio?
+
+Elestio is a fully managed DevOps platform that allows one to deploy and manage open-source applications, CI/CD pipelines, and cloud infrastructure with ease. It provides pre-configured services for various apps, including Docker, Kubernetes, databases, and monitoring tools.
+
+Source: https://elest.io/ 
+
+Now, we need to deploy a GoPhish Instance.
+
+1. Goto Managed Services -> All Services
+
